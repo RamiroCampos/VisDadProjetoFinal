@@ -1,0 +1,14 @@
+{
+  "name": "@alexeias/juntando-tudo-final",
+  "main": "c62ac0cacd7302b9@765.js",
+  "version": "765.0.0",
+  "homepage": "https://observablehq.com/@alexeias/juntando-tudo-final",
+  "author": {
+    "name": "Alexei Alves",
+    "url": "https://observablehq.com/@alexeias"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
