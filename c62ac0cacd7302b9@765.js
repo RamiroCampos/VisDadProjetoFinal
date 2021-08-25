@@ -210,7 +210,7 @@ function container() {
 
     <div  >              
       <div id='graf1' >
-      <h5 class = "center"> Lucro por pack(999 unidades) - retorno de 36,7%(sem foco) </h5>
+      <h5 class = "center"> Lucro por pack de 999 unds com retorno de 36,7%(sem foco) </h5>
       </div>
     </div>
     <div  >              
