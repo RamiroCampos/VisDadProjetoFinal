@@ -25,6 +25,15 @@
 
 <body>
 
+    <script>
+        function run() {
+            var e = document.getElementById("selectMenu");
+            typeMaterial = e.value;
+            alert("Eu sou um alerta!  " + typeMaterial);
+            dataset = choice[typeMaterial];
+            
+        }
+    </script>
     <script type="module">
 
         import define from "./index.js";
